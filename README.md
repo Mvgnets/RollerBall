@@ -3,7 +3,7 @@ This project builds on the roll a ball game tutorial available on the Unity webs
 
 Personal additions so far include:
 
-Bounce physics
-Main Menu
-Victory screen
+Bounce physics, 
+Main Menu, 
+Victory screen, 
 Pause menu with restart, main menu and exit functionality
